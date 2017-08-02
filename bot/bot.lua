@@ -83,6 +83,7 @@ function create_config( )
 	config = {
     enabled_plugins = {
 		"banhammer",
+		"CleanMember.",
 		"groupmanager",
 		"msg-checks",
 		"plugins",
